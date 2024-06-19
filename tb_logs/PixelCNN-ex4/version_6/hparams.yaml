@@ -1,5 +1,0 @@
-c_hidden: 128
-c_in: 1
-layers: 12
-mask_other_conv_center_pixel: false
-mask_starting_conv_center_pixel: true
